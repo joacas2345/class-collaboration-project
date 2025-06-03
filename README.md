@@ -29,6 +29,7 @@ Below, you’ll add your personal introduction! Follow the instructions provided
 
 **Example:**
 ```markdown
-### Student Name: Joaquin 
+### Student Name: Joaquin Castañeda 
 
-Hi, I’m Joaquin! I’m interested in web development and learning about AI. My favorite programming language is JavaScript. 🚀
+Hi, I’m Joaquin Castañeda! I’m a basketball player and I’m 1.90 meters tall.  
+Besides sports, I enjoy making desserts and watching movies like *Star Wars* and *The Lord of the Rings*. 🍰🏀🎬
